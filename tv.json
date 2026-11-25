@@ -7,7 +7,7 @@
       "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
       "api": "./yangshipin.py",
       "ext": "./yangshipin.json",
-      "epg": "https://gh-proxy.org/https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
+      "epg": "",
       "timeZone": "Asia/Shanghai",
       "ua":"okhttp/3.15",
       "timeout": 30
