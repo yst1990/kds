@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;f2d8df65824ca0154b3ae2b359452b88",
+  "spider": "./spider.jar;md5;da2f57d680b0e8df9ad3668c15628283",
   "logo": "./logo.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "ads": ["mozai.4gtv.tv","pv.vipwm.cc","static-mozai.4gtv.tv"],
