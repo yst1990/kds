@@ -3,18 +3,6 @@
   "logo": "./logo.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "ads": ["mozai.4gtv.tv","pv.vipwm.cc","static-mozai.4gtv.tv"],
-  "lives": [
-    {
-      "name": "IPTV",
-      "url": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav",
-      "api": "./yangshipin.py",
-      "ext": "./yangshipin.json",
-      "epg": "https://gh-proxy.org/https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz",
-      "timeZone": "Asia/Shanghai",
-      "ua":"okhttp/3.15",
-      "timeout": 30
-    }
-  ],
   "sites": [
     {
       "key": "豆瓣",
